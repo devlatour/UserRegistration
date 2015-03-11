@@ -12,5 +12,6 @@
     <servlet-name>Dispatcher-Servlet</servlet-name>
     <url-pattern>*.html</url-pattern>
   </servlet-mapping>
+  
   <display-name>Archetype Created Web Application</display-name>
 </web-app>
